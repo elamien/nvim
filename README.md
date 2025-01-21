@@ -1,1 +1,1 @@
-ThePrimeagen dot file configs with a humoody spin to it. 
+ThePrimeagen dot file nvim configs with a humoody spin to it. 
